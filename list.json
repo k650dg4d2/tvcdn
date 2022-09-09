@@ -12,6 +12,54 @@
             "filterable": 1
         },
         {
+            "key": "Smdyy",
+            "name": "神马影院",
+            "type": 3,
+            "api": "csp_Smdyy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_xp_zxzj2",
+            "name": "在线之家",
+            "type": 3,
+            "api": "csp_XPathFilter",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/zxzj2.json"
+        },
+        {
+            "key": "csp_xbb_瓜皮TV",
+            "name": "瓜皮TV",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://gitea.com/liucn/box/raw/branch/main/sub/MeowXB/瓜皮TV.json"
+        },
+        {
+            "key": "csp_xbb_zbkyy2",
+            "name": "真不卡影院",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://gitea.com/liucn/box/raw/branch/main/sub/MeowXB/真不卡zbkyy2.json"
+        },
+        {
+            "key": "蓝光影院",
+            "name": "蓝光",
+            "type": 1,
+            "api": "http://cms.nokia.press/vod?rule=蓝光影院",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+        {
             "key": "csp_Kunyu77",
             "name": "酷云七七",
             "type": 3,
@@ -75,16 +123,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "360_spider",
-            "name": "360影视",
-            "api": "csp_SP360",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "ext": ""
-        },
+        
         {
             "key": "csp_Mjxq",
             "name": "美剧星球",
@@ -99,15 +138,6 @@
             "name": "小苹果",
             "type": 3,
             "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "Smdyy",
-            "name": "神马影院",
-            "type": 3,
-            "api": "csp_Smdyy",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -132,16 +162,7 @@
             "filterable": 0,
             "ext": "https://gitea.com/liucn/box/raw/branch/main/sub/MeowXB/影视工厂.json"
         },
-        {
-            "key": "csp_xp_zxzj2",
-            "name": "在线之家",
-            "type": 3,
-            "api": "csp_XPathFilter",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://gitea.com/liucn/box/raw/branch/main/sub/MeowXP/zxzj2.json"
-        },
+        
         {
             "key": "csp_xp_cokemv",
             "name": "Cokemv",
@@ -255,15 +276,7 @@
             "quickSearch": 1,
             "filterable": 0
         },
-        {
-            "key": "蓝光影院",
-            "name": "蓝光",
-            "type": 1,
-            "api": "http://cms.nokia.press/vod?rule=蓝光影院",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
+        
         {
             "key": "t4public",
             "name": "合集(T4)",
@@ -432,16 +445,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://gitea.com/liucn/box/raw/branch/main/sub/MeowXB/真不卡sobods.json"
-        },
-        {
-            "key": "csp_xbb_zbkyy2",
-            "name": "真不卡影院",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitea.com/liucn/box/raw/branch/main/sub/MeowXB/真不卡zbkyy2.json"
         },
         {
             "key": "csp_xbb_饭团HD",
@@ -1441,16 +1444,6 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://gitea.com/liucn/box/raw/branch/main/sub/MeowXB/去看吧.json"
-        },
-        {
-            "key": "csp_xbb_瓜皮TV",
-            "name": "瓜皮TV",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gitea.com/liucn/box/raw/branch/main/sub/MeowXB/瓜皮TV.json"
         },
         {
             "key": "csp_xbb_大象TV",
